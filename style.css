@@ -2,10 +2,10 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --cor-de-fundo: #043a04;
+    --fundo-senha: #03581d;
+    --fundo-texto: #0a3a00;
+    --borda: #000000;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -121,7 +121,7 @@ label{
 .forca{
     height: 30px;
     position: relative;
-    bottom: 30px;
+    bottom: 30px;  
 }
 .fraca{
     width: 25%;
