@@ -105,16 +105,13 @@ body{
     margin: 0;
     font-size: 24px;
 }
-
-@media screen and (min-width: 768px) {
-    .parametro-coluna__senha{
-        flex-direction: row;
-    }
-}
 .checkbox{
     width: 20px;
     height: 20px;
     cursor: pointer;
+}
+label{
+    font-size: 20px;
 }
 .barra{
     background-color: var(--fundo-senha);
@@ -141,4 +138,16 @@ body{
 .forte{
     background-color: #00FF85;
     width: 100%;
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+    .parametro-coluna__senha{
+        flex-direction: row;
+    }
 }
