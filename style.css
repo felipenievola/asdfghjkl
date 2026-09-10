@@ -9,7 +9,6 @@
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
-}
 
 *{
     font-weight: 400;
@@ -80,11 +79,6 @@ body{
     flex-wrap: wrap;
 }
 
-.parametro-senha__botao--reiniciar{
-    padding: 12px 16px;
-    font-size: 18px;
-}
-
 .parametro-senha__titulo{
     font-size:24px;
 }
@@ -112,6 +106,12 @@ body{
     font-size: 24px;
     cursor: pointer;
 }
+
+.parametro-senha__botao--reiniciar{
+    padding: 22px;
+    font-size: 22px;
+}
+
 .parametro-senha__texto{
     padding: 24px;
     border-top: 2px solid var(--borda);
