@@ -1,3 +1,9 @@
+/*
+INTEGRANTES:
+Felipe Helamã de Andrade Nievola nº12
+Matheus Vinícius de Souza nº 32
+TURMA: 3ºK
+*/
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 let tamanhoSenha = 12;
 numeroSenha.textContent = tamanhoSenha;
