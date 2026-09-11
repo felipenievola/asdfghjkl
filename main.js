@@ -23,8 +23,6 @@ botoes[1].onclick = aumentaTamanho;
 botaoReiniciar.onclick = reiniciaSenha;
 
 function reiniciaSenha(){
-    tamanhoSenha = 12;
-    numeroSenha.textContent = tamanhoSenha;
     geraSenha();
 }
 
