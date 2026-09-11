@@ -126,4 +126,3 @@ function classificaSenha(entropia) {
     }
 }
 
-geraSenha();
